@@ -1,0 +1,11 @@
+.tareas-logo-contenedor {
+    margin: 20px;
+}
+
+.tareas-logo {
+    font-family: 'Pacifico', cursive;
+    font-size: 64px;
+    color: white;
+    user-select: none;
+    text-shadow: 3px 3px 3px black;
+}
